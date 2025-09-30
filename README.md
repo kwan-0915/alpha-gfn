@@ -1,6 +1,9 @@
 # `Alpha-gfn`: Mining formulaic alpha factors with generative flow networks
 
 ---
+**Please check out our new paper that adopted the idea of this repo:**
+- :star2::star2::star2: Chen, B., Ding, H., Shen, N., Huang, J., Guo, T., Liu, L., & Zhang, M. (2025). **AlphaSAGE: Structure-Aware Alpha Mining via GFlowNets for Robust Exploration.**
+
 **Please cite this repository if you utilize any code provided herein.:**
 - **APA style:**  Shen, N. (2024). Alpha-gfn: Mining formulaic alpha factors with generative flow networks. [https://github.com/user/my-project-name](https://github.com/nshen7/alpha-gfn)
 - **BibTeX style:**
